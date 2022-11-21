@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle we4tv",
+        "command": "we4tv:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "we4tv",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "we4tv:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

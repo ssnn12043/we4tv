@@ -1,0 +1,16 @@
+{
+  "name": "we4tv",
+  "main": "./lib/we4tv",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "we4tv:toggle"
+  },
+  "repository": "https://github.com/ssnn12043/we4tv",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
